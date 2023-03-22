@@ -1,0 +1,15 @@
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\bin\Debug\net7.0\Задача 36.exe
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\bin\Debug\net7.0\Задача 36.deps.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\bin\Debug\net7.0\Задача 36.runtimeconfig.json
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\bin\Debug\net7.0\Задача 36.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\bin\Debug\net7.0\Задача 36.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.csproj.AssemblyReference.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.AssemblyInfoInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.AssemblyInfo.cs
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\refint\Задача 36.dll
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.pdb
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\Задача 36.genruntimeconfig.cache
+C:\Users\Алексей\Desktop\Для обучения\Знакомство с языком программирования\HomeWork_5\Задача 36\obj\Debug\net7.0\ref\Задача 36.dll
